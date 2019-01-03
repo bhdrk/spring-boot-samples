@@ -42,6 +42,7 @@ buildNumber.properties
 
 # Sensitive or high-churn files
 .idea/
+*.iml
 
 # CMake
 cmake-build-debug/

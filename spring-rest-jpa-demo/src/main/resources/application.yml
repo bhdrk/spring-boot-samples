@@ -3,7 +3,7 @@ spring:
     name: My Application
 
   datasource:
-    url: jdbc:h2:C:/Data;AUTO_SERVER=TRUE
+    url: jdbc:h2:C:/Data/SpringDemo;AUTO_SERVER=TRUE
     driverClassName: org.h2.Driver
 
   jpa:
